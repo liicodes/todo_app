@@ -1,7 +1,7 @@
 # todo_app
 Someone told me I should log even the smallest projects, and I listened.
 # Personal To-Do App
-# Completed 27th December 2023
+### Completed 27th December 2023
 
 ## Features
 
