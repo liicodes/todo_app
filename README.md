@@ -1,5 +1,21 @@
 # todo_app
 Someone told me I should log even the smallest projects, and I listened.
+# Personal To-Do App
+# Completed 27th December 2023
+
+## Features
+
+1. **Add a Task**
+   - Input your task, and the app will add it to your to-do list.
+
+2. **Check All Tasks**
+   - View all your tasks in one place, making it easy to keep track of your to-do list.
+
+3. **Remove a Task**
+   - Remove completed tasks by specifying the task number to keep your list organized.
+
+4. **Exit**
+   - Exit the app
 
 ## Overview
 
