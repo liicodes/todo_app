@@ -1,26 +1,9 @@
 # todo_app
 Someone told me I should log even the smallest projects, and I listened.
 
-# Personal To-Do App
-# Completed 27th December 2023
-
 ## Overview
 
 Welcome to your Personal To-Do App! This simple Python program allows you to manage your tasks efficiently. Whether you want to add a new task, check your existing tasks, or remove completed ones, this to-do app has got you covered.
-
-## Features
-
-1. **Add a Task**
-   - Input your task, and the app will add it to your to-do list.
-
-2. **Check All Tasks**
-   - View all your tasks in one place, making it easy to keep track of your to-do list.
-
-3. **Remove a Task**
-   - Remove completed tasks by specifying the task number to keep your list organized.
-
-4. **Exit**
-   - Exit the app when you're done managing your tasks.
 
 ## How to Use
 
